@@ -42,10 +42,18 @@ Connectivity between the Client and Domain Controller.
 <br />
 
 <p>
-<img src="https://i.imgur.com/50ZXxJS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/50ZXxJS.png" height="80%" width="80%" alt="Install Active Directory."/>
 </p>
 <p>
 Install Active Directory.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/LM0x8mU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Client joined to Domain.
 </p>
 <br />
 
