@@ -58,6 +58,14 @@ Client joined to Domain.
 <br />
 
 <p>
+<img src="https://i.imgur.com/d74taYm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Users created and ready to login to Client.
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
