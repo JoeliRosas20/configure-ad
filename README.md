@@ -50,7 +50,7 @@ Install Active Directory.
 <br />
 
 <p>
-<img src="https://i.imgur.com/LM0x8mU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LM0x8mU.png" height="80%" width="80%" alt="Client joined domain"/>
 </p>
 <p>
 Client joined to Domain.
@@ -58,7 +58,7 @@ Client joined to Domain.
 <br />
 
 <p>
-<img src="https://i.imgur.com/d74taYm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/d74taYm.png" height="80%" width="80%" alt="Users created"/>
 </p>
 <p>
 Users created and ready to login to Client.
